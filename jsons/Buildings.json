@@ -33,64 +33,64 @@
 		"uniques": ["Destroyed when the city is captured"] //"Only available <when religion is enabled>"
 	},
 	{
-		"name": "5강",
+		"name": "5강",NerfBuff
 		"cost": 0,
 		"maintenance": 0,
-		"uniques": ["[+5]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>"]
+		"uniques": ["Adopt [+5]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>"]
 	},
 	{
 		"name": "4강",
 		"cost": 0,
 		"maintenance": 0,
-		"uniques": ["[+4]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>"]
+		"uniques": ["Adopt [+4]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>"]
 	},
 	{
 		"name": "3강",
 		"cost": 0,
 		"maintenance": 0,
-		"uniques": ["[+3]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>"]
+		"uniques": ["Adopt [+3]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>"]
 	},
 	{
 		"name": "2강",
 		"cost": 0,
 		"maintenance": 0,
-		"uniques": ["[+2]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>"]
+		"uniques": ["Adopt [+2]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>"]
 	},
 	{
 		"name": "1강",
 		"cost": 0,
 		"maintenance": 0,
-		"uniques": ["[+1]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>"]
+		"uniques": ["Adopt[+1]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>"]
 	},
 	{
 		"name": "1약",
 		"cost": 0,
 		"maintenance": 0,
-		"uniques": ["[-1]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>"]
+		"uniques": ["Adopt [-1]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>"]
 	},
 	{
 		"name": "2약",
 		"cost": 0,
 		"maintenance": 0,
-		"uniques": ["[-2]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>"]
+		"uniques": ["Adopt [-2]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>"]
 	},
 	{
 		"name": "3약",
 		"cost": 0,
 		"maintenance": 0,
-		"uniques": ["[-3]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>"]
+		"uniques": ["Adopt [-3]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>"]
 	},
 	{
 		"name": "4약",
 		"cost": 0,
 		"maintenance": 0,
-		"uniques": ["[-4]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>"]
+		"uniques": ["Adopt [-4]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>"]
 	},
 	{
 		"name": "5약",
 		"cost": 0,
 		"maintenance": 0,
-		"uniques": ["[-5]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>"]
+		"uniques": ["Adopt [-5]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>"]
 	},
 	// Column 1
 	{
