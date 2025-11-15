@@ -33,7 +33,7 @@
 		"uniques": ["Destroyed when the city is captured"] //"Only available <when religion is enabled>"
 	},
 	{
-		"name": "5강",NerfBuff
+		"name": "5강",
 		"cost": 0,
 		"maintenance": 0,
 		"uniques": ["Adopt [+5]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>"]
