@@ -36,61 +36,61 @@
 		"name": "5강",
 		"cost": 0,
 		"maintenance": 0,
-		"uniques": ["Adopt [+5]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>"]
+		"uniques": ["Adopt [+5]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>","[-100]% weight to this choice for AI decisions"]
 	},
 	{
 		"name": "4강",
 		"cost": 0,
 		"maintenance": 0,
-		"uniques": ["Adopt [+4]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>"]
+		"uniques": ["Adopt [+4]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>","[-100]% weight to this choice for AI decisions"]
 	},
 	{
 		"name": "3강",
 		"cost": 0,
 		"maintenance": 0,
-		"uniques": ["Adopt [+3]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>"]
+		"uniques": ["Adopt [+3]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>","[-100]% weight to this choice for AI decisions"]
 	},
 	{
 		"name": "2강",
 		"cost": 0,
 		"maintenance": 0,
-		"uniques": ["Adopt [+2]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>"]
+		"uniques": ["Adopt [+2]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>","[-100]% weight to this choice for AI decisions"]
 	},
 	{
 		"name": "1강",
 		"cost": 0,
 		"maintenance": 0,
-		"uniques": ["Adopt [+1]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>"]
+		"uniques": ["Adopt [+1]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>","[-100]% weight to this choice for AI decisions"]
 	},
 	{
 		"name": "1약",
 		"cost": 0,
 		"maintenance": 0,
-		"uniques": ["Adopt [-1]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>"]
+		"uniques": ["Adopt [-1]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>","[-100]% weight to this choice for AI decisions"]
 	},
 	{
 		"name": "2약",
 		"cost": 0,
 		"maintenance": 0,
-		"uniques": ["Adopt [-2]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>"]
+		"uniques": ["Adopt [-2]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>","[-100]% weight to this choice for AI decisions"]
 	},
 	{
 		"name": "3약",
 		"cost": 0,
 		"maintenance": 0,
-		"uniques": ["Adopt [-3]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>"]
+		"uniques": ["Adopt [-3]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>","[-100]% weight to this choice for AI decisions"]
 	},
 	{
 		"name": "4약",
 		"cost": 0,
 		"maintenance": 0,
-		"uniques": ["Adopt [-4]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>"]
+		"uniques": ["Adopt [-4]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>","[-100]% weight to this choice for AI decisions"]
 	},
 	{
 		"name": "5약",
 		"cost": 0,
 		"maintenance": 0,
-		"uniques": ["Adopt [-5]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>"]
+		"uniques": ["Adopt [-5]","Triggers a global alert upon completion","Destroyed when the city is captured","Unavailable <after adopting [+5]>","Unavailable <after adopting [+4]>","Unavailable <after adopting [+3]>","Unavailable <after adopting [+2]>","Unavailable <after adopting [+1]>","Unavailable <after adopting [-1]>","Unavailable <after adopting [-2]>","Unavailable <after adopting [-3]>","Unavailable <after adopting [-4]>","Unavailable <after adopting [-5]>","[-100]% weight to this choice for AI decisions"]
 	},
 	// Column 1
 	{
