@@ -55,8 +55,8 @@
 	        		"[-20]% Strength",
 	        		"[-20]% XP gained from combat"
                     ],
-                "row": 2,
-                "column": 1
+                "row": 1,
+                "column": 2
             },
             {
                 "name": "-3",
@@ -77,8 +77,8 @@
 	        		"[-15]% Strength",
 		        	"[-15]% XP gained from combat"
                     ],
-                "row": 3,
-                "column": 1
+                "row": 1,
+                "column": 3
             },
             {
                 "name": "-2",
@@ -99,8 +99,8 @@
 		        	"[-10]% Strength",
 		        	"[-10]% XP gained from combat"
                     ],
-                "row": 4,
-                "column": 1
+                "row": 1,
+                "column": 4
             },
             {
                 "name": "-1",
@@ -121,8 +121,8 @@
 	        		"[-5]% Strength",
         			"[-5]% XP gained from combat"
                     ],
-                "row": 5,
-                "column": 1
+                "row": 1,
+                "column": 5
             },
             {
                 "name": "+1",
@@ -144,8 +144,8 @@
 	        		"[+5]% Strength",
 		        	"[+5]% XP gained from combat"
                     ],
-                "row": 1,
-                "column": 2
+                "row": 2,
+                "column": 1
             },
             {
                 "name": "+2",
@@ -190,8 +190,8 @@
 	        		"[+15]% Strength",
 	        		"[+15]% XP gained from combat"
                     ],
-                "row": 3,
-                "column": 2
+                "row": 2,
+                "column": 3
             },
             {
                 "name": "+4",
@@ -212,8 +212,8 @@
 	        		"[+20]% Strength",
 			        "[+20]% XP gained from combat"
                     ],
-                "row": 4,
-                "column": 2
+                "row": 2,
+                "column": 4
             },
             {
                 "name": "+5",
@@ -234,8 +234,8 @@
 	        		"[+25]% Strength",
         			"[+25]% XP gained from combat"
                     ],
-                "row": 5,
-                "column": 2
+                "row": 2,
+                "column": 5
             },
 			{
                 "name": "NerfBuff Complete",
