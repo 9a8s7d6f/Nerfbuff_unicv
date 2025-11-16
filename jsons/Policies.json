@@ -124,6 +124,14 @@
                 "row": 1,
                 "column": 5
             },
+			{
+                "name": "Zero",
+                "uniques": [
+					"Will not be displayed in Civilopedia"
+                    ],
+                "row": 1,
+                "column": 6
+            },
             {
                 "name": "+1",
                 "uniques": [
