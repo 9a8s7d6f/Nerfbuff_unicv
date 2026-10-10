@@ -31,7 +31,6 @@
 			"[-50]% unhappiness from the number of cities",
 			"[-100]% maintenance cost for [All] buildings [in all cities]",
 			"[-99]% construction time for [All] improvements",
-			"[+10] Unit Supply",
 			"[+50]% Strength",
 			"[+50]% XP gained from combat"
     ]
@@ -67,8 +66,7 @@
 			"[+5 Gold] from each Trade Route",
 			"[-25]% unhappiness from the number of cities",
 			"[-50]% maintenance cost for [All] buildings [in all cities]",
-      "[-50]% construction time for [All] improvements",
-			"[+5] Unit Supply",
+      		"[-50]% construction time for [All] improvements",
 			"[+25]% Strength",
 			"[+25]% XP gained from combat"
     ]
@@ -105,7 +103,6 @@
 			"[-15]% unhappiness from the number of cities",
 			"[-15]% maintenance cost for [All] buildings [in all cities]",
       "[-15]% construction time for [All] improvements",
-			"[+3] Unit Supply",
 			"[+15]% Strength",
 			"[+15]% XP gained from combat"
     ]
@@ -142,7 +139,6 @@
 			"[-10]% unhappiness from the number of cities",
 			"[-10]% maintenance cost for [All] buildings [in all cities]",
       "[-10]% construction time for [All] improvements",
-			"[+2] Unit Supply",
 			"[+10]% Strength",
 			"[+10]% XP gained from combat"
     ]
@@ -179,7 +175,6 @@
 			"[-5]% unhappiness from the number of cities",
 			"[-10]% maintenance on road & railroads",
 			"[-10]% construction time for [All] improvements",
-			"[+1] Unit Supply",
 			"[+5]% Strength",
 			"[+5]% XP gained from combat"
     ]
